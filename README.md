@@ -50,5 +50,5 @@
 ![gtx-1650](https://img.shields.io/badge/NVIDIA-GTX_1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-![NPM](https://img.shields.io/npm/v/npm.svg?style=for-the-badge?logo=npm&logoColor=white)
+![NPM](https://img.shields.io/badge/Npm-ffffff?style=for-the-badge&logo=npm&logoColor=#CB3837)
 
