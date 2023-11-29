@@ -46,9 +46,10 @@
 
 ## 🖥️ Workspace Setup
 
-![i5-8th-gen](https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![AMD-Ryzen-7-4800H](https://img.shields.io/badge/AMD-Ryzen_7_4800H-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![gtx-1650](https://img.shields.io/badge/NVIDIA-GTX_1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-![NPM](https://img.shields.io/badge/Npm-ffffff?style=for-the-badge&logo=npm&logoColor=#CB3837)
+![NPM](https://img.shields.io/badge/Npm-ffffff?style=for-the-badge&logo=npm&logoColor=CB3837)
+![trello](https://img.shields.io/badge/Trello-0078D6?style=for-the-badge&logo=trello&logoColor=white)
 
