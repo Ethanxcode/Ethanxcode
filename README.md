@@ -48,8 +48,28 @@
 
 ![AMD-Ryzen-7-4800H](https://img.shields.io/badge/AMD-Ryzen_7_4800H-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![gtx-1650](https://img.shields.io/badge/NVIDIA-GTX_1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![windows](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-![NPM](https://img.shields.io/badge/Npm-ffffff?style=for-the-badge&logo=npm&logoColor=CB3837)
-![trello](https://img.shields.io/badge/Trello-0078D6?style=for-the-badge&logo=trello&logoColor=white)
+![NPM](https://img.shields.io/badge/Npm-555555?style=for-the-badge&logo=npm&logoColor=CB3837)
+![trello](https://img.shields.io/badge/Trello-0075b9?style=for-the-badge&logo=trello&logoColor=white)
+
+## 📈 Stats
+
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Ethanxcode&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=16&no-frame=true" alt="profile trophies" />
+    <br />
+    <img src="https://github-readme-stats.vercel.app/api?username=Ethanxcode&show_icons=true&hide_border=true" alt="Tapajyoti Bose's GitHub Stats">
+    <br />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Ethanxcode.Ethanxcode" alt="visitors">
+</div>
+
+## 🔗 Links
+
+[![Bento](https://img.shields.io/badge/Bento-ffffff?style=for-the-badge&logo=bento&logoColor=#768CFF)](https://bento.me/trannguyendanghuy)
+[![CV](https://img.shields.io/badge/CV-ffffff?style=for-the-badge&logo=read.cv&logoColor=111111)](https://read.cv/ethandrinkincoffee)
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/drive/folders/1HpmGuUocFqqCienzCR31B-ovR_UzYq_Y?usp=drive_link)
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/trannguyendanghuy/)
+[![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white)](https://dev.to/ethanxcode)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Ethanxcode)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:danhuy.work@gmail.com)
 
