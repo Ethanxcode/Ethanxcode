@@ -58,7 +58,7 @@
     <br />
     <img src="https://github-readme-stats.vercel.app/api?username=Ethanxcode&show_icons=true&hide_border=true" alt="Tapajyoti Bose's GitHub Stats">
     <br />
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Ethanxcode.Ethanxcode" alt="visitors">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Ethanxcode" alt="visitors">
 </div>
 
 ## 🔗 Links
