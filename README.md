@@ -8,13 +8,13 @@
 
 👨‍💻 As a developer and lifelong learner, I'm passionate about coding, reading, and creating valuable digital products.
 
-📚 I also love reading books on **self-help** & **novel**. My favorite ones are **Kafka At The Shore** by _Murakami Haruki_ in the genre of novel and **THE COURAGE TO BE DISLIKED** by _Ksishimi Ichiro & Koga Fumitake_ in the genre of self-help.
+📚 I also love reading books on **Self-help** & **Novel**. My favorite ones are **Kafka At The Shore** by _Murakami Haruki_ in the genre of the novel and **THE COURAGE TO BE DISLIKED** by _Ksishimi Ichiro & Koga Fumitake_ in the genre of self-help.
 
 ### 🔗 Links
 
 [![Bento](https://img.shields.io/badge/Bento-ffffff?style=for-the-badge&logo=bento&logoColor=#768CFF)](https://bento.me/trannguyendanghuy)
 [![CV](https://img.shields.io/badge/CV-ffffff?style=for-the-badge&logo=read.cv&logoColor=111111)](https://read.cv/ethandrinkincoffee)
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/drive/folders/1HpmGuUocFqqCienzCR31B-ovR_UzYq_Y?usp=drive_link)
+[![resumes](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/drive/folders/1HpmGuUocFqqCienzCR31B-ovR_UzYq_Y?usp=drive_link)
 [![linkedin](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/trannguyendanghuy/)
 [![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white)](https://dev.to/ethanxcode)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:danhuy.work@gmail.com)
