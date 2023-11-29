@@ -6,8 +6,6 @@
 
 👨‍💻 As a developer and lifelong learner, I'm passionate about coding, reading, and creating valuable digital products.
 
-🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **guitar**, **break dancing (hip-hop)**, **sketching**, and **touch typing** to some whacky ones like **writing with my left hand**.
-
 📚 I also love reading books on **self-help** & **novel**. My favorite ones are **Kafka At The Shore** by _Murakami Haruki_ in the genre of novel and **THE COURAGE TO BE DISLIKED** by _Ksishimi Ichiro & Koga Fumitake_ in the genre of self-help.
 
 
