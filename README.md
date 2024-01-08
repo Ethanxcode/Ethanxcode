@@ -42,6 +42,11 @@
 ![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+### Front-End Development
+
+![PHP](https://img.shields.io/badge/Php-563D7C?style=for-the-badge&logo=Php&logoColor=white)
+
+
 ### Backend as a Service (BaaS)
 
 ![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
@@ -52,6 +57,7 @@
 
 ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 ![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
 
 ## 🖥️ Workspace Setup
 
@@ -68,8 +74,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Ethanxcode&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=16&no-frame=true" alt="profile trophies" />
     <br />
     <img src="https://github-readme-stats.vercel.app/api?username=Ethanxcode&show_icons=true&hide_border=true" alt="Tapajyoti Bose's GitHub Stats">
-    <br />
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Ethanxcode" alt="visitors">
 </div>
 
 
