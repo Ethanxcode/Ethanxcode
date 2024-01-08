@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Tran Nguyen Dang Huy located at📍 Ho Chi Minh, Vietnam,  a **Front End Web Developer** (specializing in **React Applications**). I am also Pursuing my Associate's Degree,  in **Information Technology** and will graduate in mid-2023.
+🎓 I am Tran Nguyen Dang Huy located at📍 Ho Chi Minh, Vietnam,  a **Front End Web Developer** (specializing in **React Applications**). I am also Pursuing my Associate's Degree,  in **Information Technology** and will graduate in mid-2024.
 
 👨‍💻 As a developer and lifelong learner, I'm passionate about coding, reading, and creating valuable digital products.
 
