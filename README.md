@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## 🚀 About Me
+##  <h2 align="center">🚀 About Me</h2>
 
 🎓 I am Tran Nguyen Dang Huy located at📍 Ho Chi Minh, Vietnam,  a **Front End Web Developer** (specializing in **React Applications**). I am also Pursuing my Associate's Degree,  in **Information Technology** and will graduate in mid-2024.
 
@@ -32,7 +32,9 @@
 </p>
 
 ### Front-End Development
+
 <p align="center">
+
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
@@ -43,6 +45,8 @@
 ![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+
+</p>
 
 ### Back-End Development
 
@@ -70,6 +74,5 @@
 
 ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 ![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-</p>
 
 
