@@ -13,7 +13,7 @@
   <a href="https://bento.me/trannguyendanghuy">
     <img alt="Bento" src="https://img.shields.io/badge/Bento-ffffff?style=for-the-badge&logo=bento&logoColor=#768CFF">
   </a>
-  <a href="https://read.cv/ethandrinkincoffee">
+  <a style="display: none" href="https://read.cv/ethandrinkincoffee">
     <img alt="CV" src="https://img.shields.io/badge/CV-ffffff?style=for-the-badge&logo=read.cv&logoColor=111111">
   </a>
   <a href="https://drive.google.com/drive/folders/1HpmGuUocFqqCienzCR31B-ovR_UzYq_Y?usp=drive_link">
