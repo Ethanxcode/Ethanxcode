@@ -10,6 +10,10 @@
 
 
 <p align="center">
+  [![Bento](https://img.shields.io/badge/Bento-ffffff?style=for-the-badge&logo=bento&logoColor=#768CFF)](https://bento.me/trannguyendanghuy)
+</p>
+
+<p align="center">
   
 [![Bento](https://img.shields.io/badge/Bento-ffffff?style=for-the-badge&logo=bento&logoColor=#768CFF)](https://bento.me/trannguyendanghuy)
 [![CV](https://img.shields.io/badge/CV-ffffff?style=for-the-badge&logo=read.cv&logoColor=111111)](https://read.cv/ethandrinkincoffee)
