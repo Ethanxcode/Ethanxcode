@@ -8,15 +8,15 @@
 
 📚 I also love reading books on **Self-help** & **Novel**. My favorite ones are **Kafka At The Shore** by _Murakami Haruki_ in the genre of the novel and **THE COURAGE TO BE DISLIKED** by _Ksishimi Ichiro & Koga Fumitake_ in the genre of self-help.
 
-### 🔗 Links
-
+### <h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<p align="center">
 [![Bento](https://img.shields.io/badge/Bento-ffffff?style=for-the-badge&logo=bento&logoColor=#768CFF)](https://bento.me/trannguyendanghuy)
 [![CV](https://img.shields.io/badge/CV-ffffff?style=for-the-badge&logo=read.cv&logoColor=111111)](https://read.cv/ethandrinkincoffee)
 [![resumes](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/drive/folders/1HpmGuUocFqqCienzCR31B-ovR_UzYq_Y?usp=drive_link)
 [![linkedin](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/trannguyendanghuy/)
 [![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white)](https://dev.to/ethanxcode)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:danhuy.work@gmail.com)
-
+</p>
 
 ## 🛠️ Skills
 
@@ -27,10 +27,12 @@
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-
+<p align="center">
+<h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+</p>
 
 ### Front-End Development
-
+<p align="center">
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
@@ -40,7 +42,6 @@
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 ### Back-End Development
@@ -69,15 +70,6 @@
 
 ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 ![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
-
-## 📈 Stats
-
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ethanxcode&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=16&no-frame=true" alt="profile trophies" />
-    <br />
-    <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=Ethanxcode&show_icons=true&hide_border=true" alt="Tapajyoti Bose's GitHub Stats">
-</div>
+</p>
 
 
