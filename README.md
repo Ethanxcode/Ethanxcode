@@ -8,17 +8,20 @@
 
 ### <h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
+
 <p align="center">
-  
 [![Bento](https://img.shields.io/badge/Bento-ffffff?style=for-the-badge&logo=bento&logoColor=#768CFF)](https://bento.me/trannguyendanghuy)
 [![CV](https://img.shields.io/badge/CV-ffffff?style=for-the-badge&logo=read.cv&logoColor=111111)](https://read.cv/ethandrinkincoffee)
 [![resumes](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/drive/folders/1HpmGuUocFqqCienzCR31B-ovR_UzYq_Y?usp=drive_link)
 [![linkedin](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/trannguyendanghuy/)
 [![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white)](https://dev.to/ethanxcode)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:danhuy.work@gmail.com)
-
 </p>
 
+
+<p align="center">
+<h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+</p>
 
 
 ## <h3 align="center">Languages</h2>
@@ -28,10 +31,6 @@
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-<p align="center">
-<h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
-</p>
 
 
 
