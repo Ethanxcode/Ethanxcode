@@ -8,16 +8,28 @@
 
 ### <h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-
+<p align="center">
+  <span style="display: none; text-decoration: none;">
+    <a href="https://read.cv/ethandrinkincoffee">
+      <img alt="CV" src="https://img.shields.io/badge/CV-ffffff?style=for-the-badge&logo=read.cv&logoColor=111111">
+    </a>
+  </span>
+  <!-- Các liên kết khác -->
+</p>
 
 
 <p align="center">
   <a href="https://bento.me/trannguyendanghuy">
     <img alt="Bento" src="https://img.shields.io/badge/Bento-ffffff?style=for-the-badge&logo=bento&logoColor=#768CFF">
   </a>
-  <a style="display: none; text-decoration: none " href="https://read.cv/ethandrinkincoffee">
-    <img alt="CV" src="https://img.shields.io/badge/CV-ffffff?style=for-the-badge&logo=read.cv&logoColor=111111">
-  </a>
+ <p align="center">
+  <span style="display: none; text-decoration: none;">
+    <a href="https://read.cv/ethandrinkincoffee">
+      <img alt="CV" src="https://img.shields.io/badge/CV-ffffff?style=for-the-badge&logo=read.cv&logoColor=111111">
+    </a>
+  </span>
+  <!-- Các liên kết khác -->
+</p>
   <a href="https://drive.google.com/drive/folders/1HpmGuUocFqqCienzCR31B-ovR_UzYq_Y?usp=drive_link">
     <img alt="Resumes" src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white">
   </a>
