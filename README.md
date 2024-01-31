@@ -9,9 +9,9 @@
 ### <h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 
-<p align="center">
-  [![Bento](https://img.shields.io/badge/Bento-ffffff?style=for-the-badge&logo=bento&logoColor=#768CFF)](https://bento.me/trannguyendanghuy)
-</p>
+ <a href="https://bento.me/trannguyendanghuy">
+    <img alt="Bento" src="https://img.shields.io/badge/Bento-ffffff?style=for-the-badge&logo=bento&logoColor=#768CFF">
+  </a>
 
 <p align="center">
   
