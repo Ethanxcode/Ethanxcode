@@ -6,15 +6,7 @@
 <table>
 <tr>
 <td valign="top" width="50%">
-<picture>
-  <img src="github-metrics.svg" alt="Metrics" width="100%">
-</picture>
-</td>
-<td valign="top" width="50%">
-  
-<picture>
-  <img src="metrics.plugin.music.recent.svg" alt="Metrics Spotify" width="100%">
-</picture>
+
 
   
 🎓 I am Tran Nguyen Dang Huy located at📍 Ho Chi Minh, Vietnam,  a **Front End Web Developer** (specializing in **React Applications**). I am also Pursuing my Associate's Degree,  in **Information Technology** and will graduate in mid-2024. I'm passionate about coding, reading, and creating valuable digital products.
