@@ -7,13 +7,13 @@
 <tr>
 <td valign="top" width="50%">
 <picture>
-  <img src="github-metrics.svg" alt="Metrics" width="75%">
+  <img src="github-metrics.svg" alt="Metrics" width="100%">
 </picture>
 </td>
 <td valign="top" width="50%">
   
 <picture>
-  <img src="metrics.plugin.music.recent.svg" alt="Metrics Spotify" width="75%">
+  <img src="metrics.plugin.music.recent.svg" alt="Metrics Spotify" width="100%">
 </picture>
 
   
