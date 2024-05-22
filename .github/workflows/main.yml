@@ -32,8 +32,12 @@ jobs:
           retries_output_action: 5
           retries_delay_output_action: 120
 
-  github-metrics-spotify-personal:
+  spotify-metrics:
     runs-on: ubuntu-latest
+    environment:
+      name: production
+    permissions:
+      contents: write
     steps:
       - name: Personal Spotify metrics
         uses: lowlighter/metrics@latest
