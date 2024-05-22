@@ -16,8 +16,7 @@
 
 📚 I also love reading books on **Self-help** & **Novel**. My favorite ones are **Kafka At The Shore** by _Murakami Haruki_ in the genre of the novel and **THE COURAGE TO BE DISLIKED** by _Ksishimi Ichiro & Koga Fumitake_ in the genre of self-help.
 
-### <h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-
+## Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
  <span style="display: none; text-decoration: none;">
   <a href="https://bento.me/trannguyendanghuy">
     <img alt="Bento" src="https://img.shields.io/badge/Bento-ffffff?style=for-the-badge&logo=bento&logoColor=#768CFF">
