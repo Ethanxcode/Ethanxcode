@@ -9,12 +9,13 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    environment: 
+    environment:
       name: production
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate GitHub metrics
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_message: "chore: update ${filename}"
@@ -37,7 +38,30 @@ jobs:
           plugin_music_provider: spotify
           plugin_music_mode: recent
           plugin_music_token: ${{ secrets.SPOTIFY_TOKENS }}
-          plugin_music_limit: 5  
+          plugin_music_limit: 5
+
+  github-metrics-spotify-personal:
+    runs-on: ubuntu-latest
+    environment:
+      name: production
+    permissions:
+      contents: write
+    steps:
+      - name: Personal Spotify metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.music.recent.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_message: "chore: update ${filename}"
+          config_timezone: Asia/Ho_Chi_Minh
+          output_condition: skip-if-only-metadata-changed
+          retries_output_action: 5
+          retries_delay_output_action: 120
+          plugin_music: yes
+          plugin_music_provider: spotify
+          plugin_music_mode: recent
+          plugin_music_token: ${{ secrets.SPOTIFY_TOKENS }}
+          plugin_music_limit: 2
 
   delete-runs:
     runs-on: ubuntu-latest
