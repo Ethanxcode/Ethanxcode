@@ -31,7 +31,6 @@ jobs:
             gnuplot, vba, tsql, scss, gherkin, vim, vim script, handlebars, XSLT
           retries_output_action: 5
           retries_delay_output_action: 120
-           spotify-metrics:
       - name: Personal Spotify metrics
         uses: lowlighter/metrics@latest
         with:
