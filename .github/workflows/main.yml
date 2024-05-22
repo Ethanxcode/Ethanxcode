@@ -46,6 +46,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_message: "chore: update ${filename}"
           config_timezone: Asia/Ho_Chi_Minh
+          template: classic
           retries_output_action: 5
           retries_delay_output_action: 120
           plugin_music: yes
