@@ -12,8 +12,6 @@
 </td>
 <td valign="top" width="50%">
 
-### <h2 align="center">Hi there 👋</h2>
-
 🎓 I am Tran Nguyen Dang Huy located at📍 Ho Chi Minh, Vietnam,  a **Front End Web Developer** (specializing in **React Applications**). I am also Pursuing my Associate's Degree,  in **Information Technology** and will graduate in mid-2024. I'm passionate about coding, reading, and creating valuable digital products.
 
 📚 I also love reading books on **Self-help** & **Novel**. My favorite ones are **Kafka At The Shore** by _Murakami Haruki_ in the genre of the novel and **THE COURAGE TO BE DISLIKED** by _Ksishimi Ichiro & Koga Fumitake_ in the genre of self-help.
