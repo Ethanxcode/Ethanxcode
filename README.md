@@ -1,12 +1,9 @@
-<picture>
-  <img src="github-metrics.svg" alt="Metrics" width="100%">
-</picture>
-
-
 <table>
 <tr>
 <td valign="top" width="50%">
-<img src="metrics.svg" alt="Metric" />
+<picture>
+  <img src="github-metrics.svg" alt="Metrics" width="100%">
+</picture>
 </td>
 <td valign="top" width="50%">
 
