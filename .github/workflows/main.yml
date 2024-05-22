@@ -31,14 +31,7 @@ jobs:
             gnuplot, vba, tsql, scss, gherkin, vim, vim script, handlebars, XSLT
           retries_output_action: 5
           retries_delay_output_action: 120
-
-  spotify-metrics:
-    runs-on: ubuntu-latest
-    environment:
-      name: production
-    permissions:
-      contents: write
-    steps:
+           spotify-metrics:
       - name: Personal Spotify metrics
         uses: lowlighter/metrics@latest
         with:
@@ -54,6 +47,7 @@ jobs:
           plugin_music_mode: recent
           plugin_music_token: ${{ secrets.SPOTIFY_TOKENS }}
           plugin_music_limit: 5
+ 
 
   delete-runs:
     runs-on: ubuntu-latest
