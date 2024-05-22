@@ -111,4 +111,6 @@
 
 </div>
 
+<img src="metrics.svg" alt="Metric" />
+
 
