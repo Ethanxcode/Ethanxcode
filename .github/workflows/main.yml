@@ -17,6 +17,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_message: "chore: update ${filename}"
           config_timezone: Asia/Ho_Chi_Minh
+          template: classic
           base: header, activity, community, repositories, metadata
           config_order: base.header, base.repositories, base.activity+community, isocalendar
           output_condition: skip-if-only-metadata-changed
@@ -37,6 +38,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_message: "chore: update ${filename}"
           config_timezone: Asia/Ho_Chi_Minh
+          template: classic
           base: ""
           retries_output_action: 5
           retries_delay_output_action: 120
