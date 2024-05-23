@@ -5,7 +5,7 @@
 ---
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="center" width="50%">
 <picture>
   <img src="github-metrics.svg" alt="Metrics" width="100%">
 </picture>
